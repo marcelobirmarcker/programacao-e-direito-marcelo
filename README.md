@@ -29,3 +29,8 @@ Pode e deve , porém a decisāo final nāo pde depender exclusivamente deles , u
      NEGATIVA DE CREDITO DEVE SER JUSTIFICADA ?
      
 Sim. O CÓDIGO DE DEFESA DO CONSUMIDOR ,CDC, declara que as instituições financeiras devem justificar os motivos da recusa de credito a um possivel cliente . Este direito está assegurado no CDC.
+
+     A RELAÇĀO ENTRE A LGPD E OS DATA CENTERS NO BRASIL .
+     
+Com a implantaçāo da LEI GERAL A PROTEÇAO A DADOS , LGPD , ficou regulamentada a obrigatoriedade de proteçāo e segurança de dados e 
+informações das empresas e dos cidadāos . Todas as empresas de data centers obrigatoriamnete tiveram que se adaptar a esta nova realidade é fundamentalmente importante que tanto fisicamente como virtualmente os dados pessoas e das empresas estejam protegidos , Inclusive com sanções penais previstas em lei , no caso a LGPD.
