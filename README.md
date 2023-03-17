@@ -54,4 +54,13 @@ informações das empresas e dos cidadāos . Todas as empresas de data centers o
 Sāo na verdade controlados e definidos por interesses privados. Com o formato proprietário o ususário corre o risco de perder todas as informações no arquivo caso osoftware pare de funcionar ou seja descontinuado , já que nāo haveria outro sistema para processa lo.
 EXEMPLOS : DWG , SWF ,DOC , PPT .
 
+
+     ÁRVORES DE DECISĀO .
+     
+ É um mapa dos possiveis resultados de uma serie de escolhas relacionadas . Permite que um individuo ou organizaçāo  compare possiveis ações com base em seus custos , probabilidades e benefícios . É  uma representaçāo  de uma tabela de decisāo sob a forma de uma árvore .
+ 
+ 
+ 
+ 
+
  
