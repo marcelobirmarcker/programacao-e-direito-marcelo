@@ -34,3 +34,24 @@ Sim. O CÓDIGO DE DEFESA DO CONSUMIDOR ,CDC, declara que as instituições finan
      
 Com a implantaçāo da LEI GERAL A PROTEÇAO A DADOS , LGPD , ficou regulamentada a obrigatoriedade de proteçāo e segurança de dados e 
 informações das empresas e dos cidadāos . Todas as empresas de data centers obrigatoriamnete tiveram que se adaptar a esta nova realidade é fundamentalmente importante que tanto fisicamente como virtualmente os dados pessoas e das empresas estejam protegidos , Inclusive com sanções penais previstas em lei , no caso a LGPD.
+
+
+    FORMATOS DE ARQUIVOS DE DADOS PROPRIETÁRIOS E ABERTOS .
+    
+   FORMATO ABERTO
+   
+01)Baseado em padrōes abertos.
+02)Desenvolvido de forma abertae transparente e de modo coletivo . Exemplo HTMLS .
+03)Suas especificações estāo totalmente abertas e documentadas e acessiveis a todos .
+04)Criado para ser usado independente de qualquer produto ou empresa.
+05)recursos educacionais nāo podem existir plenamente sem formatos abertos que assegurem a possibilidade de recombinar , remixar ,os os seus conteudos.
+06)Criam um mercado justo e competitivo para implementaçāo do padrāo.
+07)Nenhum royalty ou taxa podem serem cobrados.
+
+
+    FORMATO FECHADO
+    
+Sāo na verdade controlados e definidos por interesses privados. Com o formato proprietário o ususário corre o risco de perder todas as informações no arquivo caso osoftware pare de funcionar ou seja descontinuado , já que nāo haveria outro sistema para processa lo.
+EXEMPLOS : DWG , SWF ,DOC , PPT .
+
+ 
