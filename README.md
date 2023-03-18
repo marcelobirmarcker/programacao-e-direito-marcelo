@@ -67,6 +67,12 @@ EXEMPLOS : DWG , SWF ,DOC , PPT .
  É um mapa dos possiveis resultados de uma serie de escolhas relacionadas . Permite que um individuo ou organizaçāo  compare possiveis ações com base em seus custos , probabilidades e benefícios . É  uma representaçāo  de uma tabela de decisāo sob a forma de uma árvore .
  
  
+     IMPLICAÇÕES RELACIONADAS A DADOS PÚBLICOS
+     
+Dados públicos sāo informações e conjunto de dados que sāo disponibilizados ao público em geral. A sua disponibilidade é importante porquepermite as pessoas acessar informações sobre a gestao dos governantes , bem como analisar e monitorar o desempenho das políticas e dos programas governamentais , contribuindo para a transparencia e responsabilidade dos governantes . Conferem uma maior rapidez e crítica na analise do desmpenho dos governantes .
+É importante se destacar que a privacidade e seguranca das informações pessoais e sensíveis bem como a disponibilização dos dados estejam de acordo com a lei de proteção de dados pessoais.
+Volta e meia vemos notícias na imprensa de vazamento de dados da receita federal e outros orgãos governamentais violando assim a segurança e aprivacidade dos dados pessoais das pessoas.
+ 
  
  
 
