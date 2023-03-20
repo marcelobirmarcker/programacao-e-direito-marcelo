@@ -1,6 +1,10 @@
 # programacao-e-direito-marcelo. matricula 2023 0125 2211
+  
+     ABSTRAÇÃO
+Refere-se ao processo de identificar , isolar e concentrar se em aspectos essenciais ou fundamentais de um objeto, tenomeno ou idéia ignorando outros detalhes que nāo sāo relevantes para o contexto.
+Abstraçāo é o principio fundamental na ciencia da computação . É uma tecnica importante que permite simplificar ou isolar aspectos essenciais de objetos , idéias ou fenômenos , tornando-os mais facil de entender e trabalhar . É a operaçāo intelectual da qual se separa apenas no pensamento elementos ou aspectos de uma totalidade que nāo pode substituir isoladamente.
 
-    ALGORÍTMO
+     ALGORÍTMO
 É um conjunto de instruções ordenadas e previamente programadas que é utilizado para efetuar uma tarefa ou resolver um problema.Seguem uma estrutura lógica e sāo essenciais para a computaçāo e para o funcionamento dos softwares.
 
     INTELIGÊNCIA ARTIFICIAL (I.A)
@@ -72,6 +76,10 @@ EXEMPLOS : DWG , SWF ,DOC , PPT .
 Dados públicos sāo informações e conjunto de dados que sāo disponibilizados ao público em geral. A sua disponibilidade é importante porquepermite as pessoas acessar informações sobre a gestao dos governantes , bem como analisar e monitorar o desempenho das políticas e dos programas governamentais , contribuindo para a transparencia e responsabilidade dos governantes . Conferem uma maior rapidez e crítica na analise do desmpenho dos governantes .
 É importante se destacar que a privacidade e seguranca das informações pessoais e sensíveis bem como a disponibilização dos dados estejam de acordo com a lei de proteção de dados pessoais.
 Volta e meia vemos notícias na imprensa de vazamento de dados da receita federal e outros orgãos governamentais violando assim a segurança e aprivacidade dos dados pessoais das pessoas.
+
+      MAQUINA DE NEUMANN
+      
+É um modelo teorico de computador criado pelo físico hungaro Jhon Von Neumann em 1945 . É considerado o modelo teórico básico para a arquitetura dos computadores modernos. É caracterizada pela capacidade de armazenar tanto dados como programas de computador na mesma memória , tornando possível a execuçaaaa
  
  
  
