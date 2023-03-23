@@ -11,6 +11,10 @@ Abstraçāo é o principio fundamental na ciencia da computação . É uma tecni
     
 É um conjunto de tarefas que colocamos no computador para realizar pesquisas e reconhecer padrões. Foi criada para realizar tarefas que normalmente exigiriam a inteligência humana. Usam algorítmos que permitem a maquina aprender com exemplos e dados ,previamente inseridos em um banco de dados, parametrizando assim um processo de tomada de decisao ou disponibilidades de informações.
 
+
+     ARQUIVO
+E um conjunto de bits organizados com um nome.
+
     INFORMAÇĀO 
     
 Sāo dados organizados e processados que tem relevância para um determinado assunto . É capaz de transmitir conhecimento, instruçāo,e mensagens para um receptor.
@@ -38,12 +42,14 @@ O CÓDIGO DE DEFESA DO CONSUMIDOR ,CDC, declara que as instituições financeira
      A RELAÇĀO ENTRE A LGPD E OS DATA CENTERS NO BRASIL .
      
 Com a implantaçāo da LEI GERAL A PROTEÇAO A DADOS , LGPD , ficou regulamentada a obrigatoriedade de proteçāo e segurança de dados e 
-informações das empresas e dos cidadāos . Todas as empresas de data centers obrigatoriamnete tiveram que se adaptar a esta nova realidade é fundamentalmente importante que tanto físicamente como virtualmente os dados pessoas e das empresas estejam protegidos , Inclusive com sanções penais previstas em lei , no caso a LGPD.
+informações das empresas e dos cidadāos . Todas as empresas de data centers obrigatoriamnete tiveram que se adaptar a esta nova realidade é fundamentalmente importante que tanto físicamente como virtualmente os dados pessoas e das empresas estejam protegidos , Inclusive com sanções penais previstas em lei , no caso a LGPD. Independentemente onde eles se encontrarem localizados fisicamente , ou seja , a legislaçao brasileira os alcança onde estiverem .
 
 
     FORMATOS DE ARQUIVOS DE DADOS PROPRIETÁRIOS E ABERTOS .
     
    FORMATO ABERTO
+   
+   CARASCTERISTICAS
    
 01)Baseado em padrōes abertos.
 
@@ -59,10 +65,12 @@ informações das empresas e dos cidadāos . Todas as empresas de data centers o
 
 07)Nenhum royalty ou taxa podem serem cobrados.
 
+08)Sao mais seguros porque ficam expostos a todos os que se interessarem .
+
 
     FORMATO FECHADO
     
-Sāo na verdade controlados e definidos por interesses privados. Com o formato proprietário o ususário corre o risco de perder todas as informações no arquivo caso o software pare de funcionar ou seja descontinuado , já que nāo haveria outro sistema para processa lo.
+Sāo na verdade controlados e definidos por interesses PRIVADOS. Com o formato proprietário o ususário corre o risco de perder todas as informações no arquivo caso o software pare de funcionar ou seja descontinuado , já que nāo haveria outro sistema para processa lo.
 EXEMPLOS : DWG , SWF ,DOC , PPT .
 
 
@@ -73,9 +81,9 @@ EXEMPLOS : DWG , SWF ,DOC , PPT .
  
      IMPLICAÇÕES RELACIONADAS A DADOS PÚBLICOS
      
-Dados públicos sāo informações e conjunto de dados que sāo disponibilizados ao público em geral. A sua disponibilidade é importante porquepermite as pessoas acessar informações sobre a gestao dos governantes , bem como analisar e monitorar o desempenho das políticas e dos programas governamentais , contribuindo para a transparencia e responsabilidade dos governantes . Conferem uma maior rapidez e crítica na analise do desmpenho dos governantes .
+Dados públicos sāo informações e conjunto de dados que sāo disponibilizados ao público em geral. A sua disponibilidade é importante porque permite as pessoas acessar informações sobre a gestao dos governantes , bem como analisar e monitorar o desempenho das políticas e dos programas governamentais , contribuindo para a transparencia e responsabilidade dos governantes . Conferem uma maior rapidez e crítica na analise do desmpenho dos governantes .
 É importante se destacar que a privacidade e seguranca das informações pessoais e sensíveis bem como a disponibilização dos dados estejam de acordo com a lei de proteção de dados pessoais.
-Volta e meia vemos notícias na imprensa de vazamento de dados da receita federal e outros orgãos governamentais violando assim a segurança e aprivacidade dos dados pessoais das pessoas.
+Volta e meia vemos notícias na imprensa de vazamento de dados da receita federal e outros orgãos governamentais violando assim a segurança e aprivacidade dos dados pessoais . Todos os arquivos publicos deveriam ser disponibilizados em formato aberto.
 
       MÁQUINA DE NEUMANN
       
