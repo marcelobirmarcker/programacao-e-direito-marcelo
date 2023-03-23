@@ -82,8 +82,11 @@ Volta e meia vemos notícias na imprensa de vazamento de dados da receita federa
 É um modelo teorico de computador criado pelo físico hungaro Jhon Von Neumann em 1945 . É considerado o modelo teórico básico para a arquitetura dos computadores modernos. É caracterizada pela capacidade de armazenar tanto dados como programas de computador na mesma memória , tornando possível a execução de instruções armazenadas na memória.
 É considerada uma das contribuições mais valiosas para a ciencia da computação pois possibilitou a criação de computadores mais flexiveis e poderosos .Foi a base para a construção e o desenvolvimento de muitos computadores , inclusive os modernos. São 4 os seus componentes principais :
 1.1 UCP central de processamento , responsavel pela execução de instruções e cálculos.
-1.2 MEMÓRIA , responsável pelo armazenamento de dados e programas.
+
+1.2 MEMÓRIA , responsável pelo armazenamento de dados e programas
+
 1.3 DISPOSITIVOS DE ENTRADAS (PERIFÉRICOS) - permite a comunicação com o usuário e a transferencia de dados entre o computador e o mundo externo.
+
 1.4 BARRAMENTO DE SISTEMA - um canal que conecta a CPU a memória e aos dispositivos de saída .
  
  
