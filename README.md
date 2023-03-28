@@ -96,6 +96,58 @@ Volta e meia vemos notícias na imprensa de vazamento de dados da receita federa
 1.3 DISPOSITIVOS DE ENTRADAS (PERIFÉRICOS) - permite a comunicação com o usuário e a transferencia de dados entre o computador e o mundo externo.
 
 1.4 BARRAMENTO DE SISTEMA - um canal que conecta a CPU a memória e aos dispositivos de saída .
+
+
+    LINGUAGEM XML
+Extensible Marckup Language
+É uma linguagem de marcaçāo que permite a criação de documentos estruturados de forma hierarquica. É amplamente utilizado em sistemas de gerenciamento de conteúdo , troca de dados entre diferentes sistemas e outras aplicações que requerem a estruturação de dados de forma hierarquica. Independente de plataforma compatível com outras linguagens de marcação , como HTML e o XHTML .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
 
