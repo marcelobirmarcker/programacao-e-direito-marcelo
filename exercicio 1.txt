@@ -1,0 +1,50 @@
+1) O estudo dos conceitos fundamentais de computação para os operadores de direito tornou se muito importante devido a nossa cada vez maior dependencia destas maquinas. Hoje as geracoes ja nascem muito mais inseridas no mundo da tecnolgia da informacao do que nós quando nascemos. Esta vantagem ira ajudar los a estar cada vez mais inseridos em contexto digital e para que nao percamos o trem da historia temos que nos atualizar e passar a desfrutar das vantagens do mundo digital , porem com um minimo conhecimento de como as coisas funcionam e em que bases seus conceitos foram criados para otimizarmos o uso dest tecnologia.
+
+2)
+2.a) ALGORITIMO
+É um conjunto de instrucoes que devem ser seguidas para resolver um problema especifico ou concluir uma tarefa em particular ou realizar calculos de maneira eficiente e efetiva de uma forma rapida.
+
+2.b) NUVEM
+É o termo usado para descrever uma rede de servidores e dispositivos de armazenamento de dados que estao conectados a internet e podem ser acessados por ususarios em qualquer lugar do mundo. O armazenamento de daos em uma nuvem oferece inumeras vantagens tais quais : maior escalabilidade ,flexibilidade , seguranca ,facilidade de acesso e custos reduzidos.
+
+2.c) SERVIDOR 
+É um computador ou sistema de computadores que fornece servicos ou recursos para outros dispositivos ou computadores. Sao projetados para fornecer recursos de rede  , armazenamento e processamento para outras maquinas na rede .
+
+2.d)  NEUTRALIDADE DE REDE
+É o principio de que todo trafego de dados na ionternet deve ser tratado igualmente sem discriminacao ou priorizacao por provedores de servicos de internet com base em seu tipo de conteudo , origem , destino ou aplicacao .
+
+2.d)  ARQUIVOS
+É um conjunto de informacoes ou dados armazenados em um dispositivo de armazenamento de dados . Os arquivos podem conter qualquer tipo de informacao .
+
+3)Cada um dos conceitos enunciados na pergunta encontram se ordenados e organizados para que entre si possibilitem as trocas de dados cada um atuando na sua area de atuacao tanto na parte de hardware como de softwares . Eles se conectam e se intre relacionam organizando diferentes funcoes que se fundem em um melhor acesso as informacoes .
+
+4)Os computadores a principio serviam para jogos e para substitur as maquinas de escrever . A medida que a tecnologia foi se desenvolvendo os computadores comecaram a assumir a realizacoes de diversas tarefas que acabaram por viabilizar o nosso dia a dia . Hoje somos tao dependentes deles e ao pensarmos como se desenvolveram de uma simples maquina de escrever que rodaria a folha de pagamentos e se tornaram com utilidade em praticamente em todo o nosso dia a dia . Hoje fica muito dificil acreditar em uma evolucao da especie humana que nao venha atrelada ao uso massivo de computadores .
+
+5)Nao se deve entregar a responsailidade de analisar um credito , conceder um beneficio ou tomar decisoes de carater medico a um algoritimo e esperar certeza nas decisoes . A maquina calcula o que e programada para fazer em base de dados previamente compilados e organizados em varios arquivos que servirao como base de consulta , estes porem se limitarao a oferecer estas informacoes que PODEM ajudar no processo de tomada de decisao , nao poderao nunca serem os detentores deste poder , podem no maximo ser ferramentas que auxiliem a tomada de decisoes .
+
+6)Arquivos binarios sao complicados de depurar sua manipulacao uma vez que nao é legivel e sequer esruturado em linhas sao somente numeros. Arquivos de texto por outro lado , permitem uma depuracao simplificada e legivel para humanos.
+
+7)O formato aberto , opensource , pode ser lido , acessado ,editado por qualquer aolicativo ou por qualquer pessoa , ja os arquivos proprietarios somente podera ser aberto , acessado , editado e utilizado pelo programa proprietario , esta diferenca entre eles acaba por criar uma seletividade muito grande no acesso as informacoes . Os dados publicos necessariamente devem estar disponibilizados em arquivos abertos de forma que de maior transparencia e igual acessibilidade a todas as pessoas . Os dados publicos nao podem ficar sob a direcao de empresas privadas ,caso uma amanha venha a falir ou quebrar ou nao fornecer acesso a estes dados como ficariamos entao sem dados publicos?
+
+8)A liberdade e a acessibilidade a todos que tiverem interesse em acessa los sem depender de terceiros e estranhos ao contexto que poderiam criar um certo dominio sobre dados publicos , com interesses opostos ao que foi criada esta disponibilizacao de dados e informacoes . as constantes atualizacoes da microsoft aos seus aplicativos acaba criando uma dependencia dea muito grande sufocando a concorrencia que semore e sadia em todos os ambientes que visem prestar um servico de melhor qualidade a um preco mais justo.
+
+   SISTEMA OPERACIONAL
+
+9.a)Sistema operacional e um software basico que gerencia os recursos de hardware e software de um computador , fornece uma interface para o ususario interagir com o computador e permite a execucao de aplicativos e servicos .
+
+9.b)Sim existem varios sistemas operacionais disponiveis cada um com as suas caracteristicas e finalidades . Seguem alguns exemplos:
+Microsoft windows
+MacOS
+Linux
+Android
+Ios
+
+9.c)Sim . Geralmente esta venda vem travestida de um brinde ou uma vantagem de a licenca ja estar habilitada naquele computador mas com certeza o seu preco foi incluido no preco total . A propria plataforma apple so usa um sistema operacional IOS e as outras usam o microsoft windows ou outros sistemas operacionais .
+
+10.a)Sim A abrangencia da LGPD nao se limita somente ao territorio nacional ela e especifica para os dados onde quer que eles estejam . Eles estao sobre a egide da LGPD .
+
+10.b1)Esta e uma polemica muito grande mas se atendo especificamente e friamente por mais que estejam em desacordo com principios de moral e etica nao devemos censurar a publicacao de dados , com excesao dos falsos , a censura cabe a nós se quisermos acessa los ou uiliza los . Os principios de  moral e  etica estao nos usuarios e nao nos dados.
+
+10.b2)sao as famosas FAKE NEWS muito em moda nos dias de hoje . Se considerarmos o direito de resposta que exige no direito devemos extende lo tambem para o mundo digital a diferenca e o que foi publicado tem uma fonte e um lugar e um autor responsavel na imprensa residindo assim a sua area de impacto e concentrando neste mesmo local a responsabilidade do direito de resposta que teoricamente atingiria as mesmas pessoas que foram atingidas na ocasiao do primeiro evento . O problema e que quando lancado na internet e disponibilizado a todos fica sem residir o direito de resposta sendo assim deve ser censurado e excluidas as suas publicacoes . Seus publicadores devem ser punidos inclusive pelo codigo penal . Isto e crime e afeta diretamente o futiro e as vidas das pessoas .
+devemos tambem nao esquecer o direito ao esquecimento que a internet acaba nao possibilitando .
+
