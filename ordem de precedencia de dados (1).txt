@@ -1,0 +1,23 @@
+        A programação nada mais é que uma habilidade que envolve a escrita de codigos para resolver problemas e para isso
+     é preciso utilizar operadores aritimeticos e logicos. Para que esta função seja bem feita , a ordem de precedencia 
+     desses operadores é extremamente importante , uma vez que ela determina a ordem que as operações devem ser executadas.
+     os operadores aritimeticos incluem adição (+) , subtração (-) , divisão(/) e multiplicação (*) e o modulo percentual
+     (%) , eles são usados para realizar operações matematicas em valores numericos . A ordem de precedencia padrão dos
+     operadores aritimeticos e a seguinte :
+     Primeiro as operações de divisão e multiplicação são realizadas seguidas pelas operações de adição e subtra
+     ção .Por exemplo , na expressão "20+10*4" a multiplicação é executada primeiro resutando em "20+40"que é igual a 60 .
+        No entanto é possivel modificar a ordem de precedencia dos operadores aritimeticos utilizando parenteses ,sempre 
+     utilizando parenteses , as operações dentro dos parenteses são SEMPRE executadas primeiro , independentemente da ordem 
+     de precedencia padrao .Por exemplo, na expressão (10*4)+ 20 , a multiplicaçāo é executada primeiro e a adição depois,
+     40+20 que é igual a 60.
+        Os operadores logicos são utilizados para realizar operações BOOLEANAS, isto é , operações que envolvem valores ve
+     verdadeiros ou falsos . Os operadores logicos incluem a negação (!) , a conjunção (&&) e a disjunção (||) com a 
+     seguinte ordem :primeiro a negação é executada seguida pela conjunção e depois pela disjunção .Assim como os 
+     operadores aritimeticos , a ordem de precedencia dos operadores logicos tambem pode ser modificada 
+     utilizando parenteses , SEMPRE, parenteses .
+        Resumindo , a ordem de precedencia dos operadores aritimeticos e logicos é extremamente importante na programaçao
+     porque ela determina a ordem em que as operações devem ser executadas , visto que a falta de ordem de precedencia 
+     influencia diretamente o resultado da operação . A ordem de precedencia padrao pode ser modificada pelo programador
+     utilizando parenteses . Isto permite ao programador controlar a ordem das operações garantindo o seu funcionamento
+     correto e evitar erros .
+        
